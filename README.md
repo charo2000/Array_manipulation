@@ -12,22 +12,24 @@ On utilise **GitHub** pour travailler ensemble, suivre l’avancement et garder 
 
 array-manipulation/
 │
-├─ code/ # Tout le code source C
-│ ├─ ex1_sum_matrix.c
-│ ├─ ex2_product_matrix.c
-│ ├─ ex3_search.c
-│ ├─ ex4_mul_positive.c
-│ ├─ ex5_sorted.c
-│ ├─ ex6_median.c
-│ ├─ ex7_reverse.c
-│ ├─ ex8_cross_product.c
-│ └─ ex9_vector_matrix.c
+├─ code/                     # Tout le code source C
+│   ├─ ex1_sum_matrix.c       # Exercice 1 : Somme de matrices
+│   ├─ ex2_product_matrix.c   # Exercice 2 : Produit de matrices
+│   ├─ ex3_search.c           # Exercice 3 : Recherche séquentielle
+│   ├─ ex4_mul_positive.c     # Exercice 4 : Multiplication par additions
+│   ├─ ex5_sorted.c           # Exercice 5 : Tester si un tableau est trié
+│   ├─ ex6_median.c           # Exercice 6 : Médiane d’un tableau
+│   ├─ ex7_reverse.c          # Exercice 7 : Inverser un tableau
+│   ├─ ex8_cross_product.c    # Exercice 8 : Produit vectoriel (3D)
+│   └─ ex9_vector_matrix.c    # Exercice 9 : Produit vecteur × matrice
 │
-├─ doc/ # Cahiers de suivi
-│ ├─ MatriculePrenom-NOM.md
+├─ doc/                       # Cahiers de suivi et rapports
+│   ├─ MatriculePrenom-NOM.md # Cahier individuel (un par étudiant)
+│   └─ ...
 │
-├─ README.md # Ce fichier
-└─ .gitignore # fichiers à ignorer (binaires, objets, etc.)
+├─ README.md                  # Description du projet + règles de collaboration
+
+
 
 
 ---

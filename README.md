@@ -1,2 +1,7 @@
 # Array_manipulation
-this work will help us master how to use arrays in c programming language with hand on exercises
+
+# Algorithmes de Tableaux en C
+
+Ce projet contient deux fonctions principales pour manipuler des tableaux en C :
+1. Vérifier si un tableau est trié
+2. Calculer la médiane d'un tableau

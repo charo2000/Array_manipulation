@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "matrices.h"
+#include "ProduitMatrices.h"
 
 // Fonction pour lire un entier avec contrôle
 int lireEntier(const char *message) {

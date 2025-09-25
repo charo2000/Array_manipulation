@@ -1,5 +1,5 @@
-#ifndef MATRICES_H
-#define MATRICES_H
+#ifndef PRODUITMATRICES_H
+#define PRODUITMATRICES_H
 
 // Lecture sécurisée d'un entier
 int lireEntier(const char *message);
